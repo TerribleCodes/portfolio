@@ -1,0 +1,2 @@
+Blog png dimensions: 601x401
+project png dimensions: 600x450
